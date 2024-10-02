@@ -1,4 +1,6 @@
-# canary-chrome-nano-gemini-adventures
+# TLD: https://docs.google.com/document/d/1VG8HIyz361zGduWgNG7R_R8Xkv0OOJ8b5C9QKeCjU0c/edit
+
+# canary-chrome-nano-gemini-adventures which I took
 as of 2-10-2024:
 If you are still unable to use chrome nano gemini and which options users are must have to make it work.
 1. Download Chrome Canary
@@ -14,9 +16,9 @@ d. Enabled Console Insights: ![image](https://github.com/user-attachments/assets
 
  and then ![image](https://github.com/user-attachments/assets/c9d9d9de-48a0-4379-a48d-4c61b9b42bdf)
 
-8. go to chrome components: And you must have Optimization Guide On Device Model Option Downloaded :![image](https://github.com/user-attachments/assets/80648412-7b45-49b3-afac-43fe171b6756)
-9. Finally It looks like this: ![image](https://github.com/user-attachments/assets/0e0aa94c-cef4-4b28-b18f-665cd82d9264)
-
+7. go to chrome components: And you must have Optimization Guide On Device Model Option Downloaded :![image](https://github.com/user-attachments/assets/80648412-7b45-49b3-afac-43fe171b6756)
+8. Finally It looks like this: ![image](https://github.com/user-attachments/assets/0e0aa94c-cef4-4b28-b18f-665cd82d9264)
+9. Still It was not working then I followed the steps described in docs:https://docs.google.com/document/d/1VG8HIyz361zGduWgNG7R_R8Xkv0OOJ8b5C9QKeCjU0c/edit and gone till their failure steps i.e create() // for creating the assistant and then relaunching the chrome and then go the components and then update and then finally the ready came up.
 10. Other repos / medium articles that I have looked and they were are takling about the below chrome component that must be present:
 11. After following all the steps in this it worked : Super useful ![image](https://github.com/user-attachments/assets/7ff7f795-d54b-4a26-a316-b04dee8f27e9)
 https://docs.google.com/document/d/1VG8HIyz361zGduWgNG7R_R8Xkv0OOJ8b5C9QKeCjU0c/edit
