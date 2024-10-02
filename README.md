@@ -1,5 +1,6 @@
 # TLD: https://docs.google.com/document/d/1VG8HIyz361zGduWgNG7R_R8Xkv0OOJ8b5C9QKeCjU0c/edit
 # I got the above doc link from chromeai.pro document section : ![image](https://github.com/user-attachments/assets/33b5e584-e301-4216-a453-3d3576c8d2c6)
+# Inspiration came from https://x.com/mortenjust/status/1805190952358650251
 
 # canary-chrome-nano-gemini-adventures which I took
 as of 2-10-2024:
