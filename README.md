@@ -27,3 +27,5 @@ https://docs.google.com/document/d/1VG8HIyz361zGduWgNG7R_R8Xkv0OOJ8b5C9QKeCjU0c/
   - e. reddit: https://www.reddit.com/r/LocalLLaMA/comments/1d9v9kb/gemini_nano_with_chrome_in_your_browser/?rdt=46018
 12. Using the below playground for testing:https://chrome.dev/web-ai-demos/prompt-api-playground/
     ![image](https://github.com/user-attachments/assets/88dca4a9-a8bb-45a8-aea1-f315cf90db74)
+13. ** And Yes it works offline as well **:
+    ![image](https://github.com/user-attachments/assets/2f0c782d-b0c8-470a-bde4-405c4a777604)
